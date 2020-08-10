@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
+Pre-requisites:
+
+Make sure to grab the latest version of nodejs from https://nodejs.org/en/.
+
+Once that is installed, open your terminal/command prompt and type in the command: npm install -g @angular/cli
+
 To run this app:
 
 1. Clone the repository locally.
